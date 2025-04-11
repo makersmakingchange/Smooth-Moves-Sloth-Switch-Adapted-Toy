@@ -10,7 +10,9 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 ## Attribution
 <!--- ATTRIBUTION Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design--->
+Method for switch adapting the toy created by SWITCHED Adapted Toys: https://www.switchedtoys.org/
 
+Additional documentation created by Neil Squire / Makers Making Change.
 The documentation template was created by Makers Making Change and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
 ---
